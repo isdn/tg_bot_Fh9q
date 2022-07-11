@@ -4,6 +4,7 @@ Requirements:
 - PyYAML
 - Requests
 
+This bot uses long polling mechanism to receive updates from telegram.
 
 #### Sensors
 
